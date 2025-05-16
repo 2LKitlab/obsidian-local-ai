@@ -26,7 +26,7 @@ This assistant gives you:
 ## Quick Start
 
 ```bash
-git clone https://github.com/youruser/obsidian-local-ai
+git clone https://github.com/2LKitlab/obsidian-local-ai
 cd obsidian-local-ai
 pip install .
 python assistant.py
